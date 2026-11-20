@@ -1,4 +1,4 @@
-package cl.duoc.pizzeriaapp.models
+package cl.duoc.pizzeriaapp.data.models
 
 /** Cantidad explícita de un producto en un pedido. */
 data class DetallePedido(val producto: Producto, val cantidad: Int) {

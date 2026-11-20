@@ -1,6 +1,6 @@
-package cl.duoc.pizzeriaapp.models
+package cl.duoc.pizzeriaapp.data.models
 
-import cl.duoc.pizzeriaapp.annotations.Promocionable
+import cl.duoc.pizzeriaapp.data.annotations.Promocionable
 
 enum class CategoriaProducto { PIZZA, COMBO, BEBIDA, INGREDIENTE }
 

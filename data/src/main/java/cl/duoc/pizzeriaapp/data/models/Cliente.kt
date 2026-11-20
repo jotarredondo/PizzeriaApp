@@ -1,4 +1,4 @@
-package cl.duoc.pizzeriaapp.models
+package cl.duoc.pizzeriaapp.data.models
 
 /** La identidad de clientes se determina por nombre y correo. */
 class Cliente(

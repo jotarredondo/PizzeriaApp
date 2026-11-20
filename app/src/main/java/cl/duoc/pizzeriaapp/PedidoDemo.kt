@@ -1,11 +1,11 @@
 package cl.duoc.pizzeriaapp
 
-import cl.duoc.pizzeriaapp.models.Cliente
-import cl.duoc.pizzeriaapp.models.DetallePedido
-import cl.duoc.pizzeriaapp.models.Pedido
-import cl.duoc.pizzeriaapp.models.PeriodoPromocion
-import cl.duoc.pizzeriaapp.models.Pizza
-import cl.duoc.pizzeriaapp.models.Usuario
+import cl.duoc.pizzeriaapp.data.models.Cliente
+import cl.duoc.pizzeriaapp.data.models.DetallePedido
+import cl.duoc.pizzeriaapp.data.models.Pedido
+import cl.duoc.pizzeriaapp.data.models.PeriodoPromocion
+import cl.duoc.pizzeriaapp.data.models.Pizza
+import cl.duoc.pizzeriaapp.data.models.Usuario
 import java.time.LocalDate
 
 /** Datos de demostración, independientes de Android y de la consola. */

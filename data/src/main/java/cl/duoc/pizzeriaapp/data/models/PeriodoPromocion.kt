@@ -1,4 +1,4 @@
-package cl.duoc.pizzeriaapp.models
+package cl.duoc.pizzeriaapp.data.models
 
 import java.time.LocalDate
 

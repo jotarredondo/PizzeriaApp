@@ -1,4 +1,4 @@
-package cl.duoc.pizzeriaapp.annotations
+package cl.duoc.pizzeriaapp.data.annotations
 
 /** Identifica categorías de producto que pueden recibir promoción. */
 @Target(AnnotationTarget.CLASS)
